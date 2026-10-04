@@ -5,12 +5,9 @@ body {
 }
 
 .wrapper {
-    position: relative;
-    width: 900px;
-    height: 700px;
-    margin: 40px auto;
-    background-color: #4778c6;
-    border: 2px solid #244d87;
+     position: relative;
+    width: 580px;
+    margin: 20px 0 0 40px;
 }
 
 
